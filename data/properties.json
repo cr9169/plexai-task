@@ -1,0 +1,1699 @@
+[
+  {
+    "id": "prop_hr39w1do",
+    "name": "7621 University Blvd",
+    "address": {
+      "street": "5679 Industrial Pkwy",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "40482"
+    },
+    "type": "multifamily",
+    "sqft": 43265,
+    "units": 68,
+    "yearBuilt": 1977,
+    "purchasePrice": 8297794,
+    "income": {
+      "annualRent": 1126621,
+      "parkingIncome": 31085,
+      "laundryIncome": 22490,
+      "otherIncome": 5882
+    },
+    "vacancyRate": 0.08,
+    "expenses": {
+      "taxes": 165956,
+      "insurance": 0,
+      "maintenance": 40669,
+      "utilities": 50187,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 5393566,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_06mffb93",
+    "name": "5812 Commerce Blvd",
+    "address": {
+      "street": "5857 Elm Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "83252"
+    },
+    "type": "multifamily",
+    "sqft": 190243,
+    "units": 284,
+    "yearBuilt": 1991,
+    "purchasePrice": 52638336,
+    "income": {
+      "annualRent": 5410511,
+      "parkingIncome": 24432,
+      "laundryIncome": 22906,
+      "otherIncome": 736
+    },
+    "vacancyRate": 0.1,
+    "expenses": {
+      "taxes": 526383,
+      "insurance": 0,
+      "maintenance": 367169,
+      "utilities": 226389,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 40531518,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_1jw5mvhc",
+    "name": "6537 Harbor Way",
+    "address": {
+      "street": "5255 Tech Center Dr",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "39996"
+    },
+    "type": "retail",
+    "sqft": 13055,
+    "units": null,
+    "yearBuilt": 1981,
+    "purchasePrice": 3132156,
+    "income": {
+      "annualRent": 407316,
+      "parkingIncome": 68770,
+      "laundryIncome": 0,
+      "otherIncome": 1258
+    },
+    "vacancyRate": 0.07,
+    "expenses": {
+      "taxes": 31322,
+      "insurance": 0,
+      "maintenance": 19844,
+      "utilities": 9922,
+      "managementFeePct": 0.1
+    },
+    "loan": {
+      "loanAmount": 2317795,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_dq0seh79",
+    "name": "Vacant Warehouse — 100% Empty",
+    "address": {
+      "street": "919 Commerce Blvd",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "44937"
+    },
+    "type": "industrial",
+    "sqft": 136534,
+    "units": null,
+    "yearBuilt": 1983,
+    "purchasePrice": 21207826,
+    "income": {
+      "annualRent": 3932179,
+      "parkingIncome": 44180,
+      "laundryIncome": 4233,
+      "otherIncome": 9115
+    },
+    "vacancyRate": 1,
+    "expenses": {
+      "taxes": 424157,
+      "insurance": 212078,
+      "maintenance": 121515,
+      "utilities": 133803,
+      "managementFeePct": 0.1
+    },
+    "loan": {
+      "loanAmount": 15693791,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_7uus3t16",
+    "name": "2019 Harbor Way",
+    "address": {
+      "street": "804 University Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "51664"
+    },
+    "type": "multifamily",
+    "sqft": 171817,
+    "units": 236,
+    "yearBuilt": 1992,
+    "purchasePrice": 43741172,
+    "income": {
+      "annualRent": 3814337,
+      "parkingIncome": 17164,
+      "laundryIncome": 19640,
+      "otherIncome": 10678
+    },
+    "vacancyRate": 0.09,
+    "expenses": {
+      "taxes": 874823,
+      "insurance": 0,
+      "maintenance": 94499,
+      "utilities": 108245,
+      "managementFeePct": 0.05
+    },
+    "loan": {
+      "loanAmount": 27119527,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_bfugmqnf",
+    "name": "3695 Park Ave",
+    "address": {
+      "street": "5644 Tech Center Dr",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "54293"
+    },
+    "type": "office",
+    "sqft": 80971,
+    "units": null,
+    "yearBuilt": 1981,
+    "purchasePrice": 20058136,
+    "income": {
+      "annualRent": 1622659,
+      "parkingIncome": 64892,
+      "laundryIncome": 0,
+      "otherIncome": 14809
+    },
+    "vacancyRate": 0.08,
+    "expenses": {
+      "taxes": 401163,
+      "insurance": 0,
+      "maintenance": 102023,
+      "utilities": 153035,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 16046509,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_uaz4j9jm",
+    "name": "5383 Industrial Pkwy",
+    "address": {
+      "street": "6138 Tech Center Dr",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "17170"
+    },
+    "type": "multifamily",
+    "sqft": 172325,
+    "units": 270,
+    "yearBuilt": 2012,
+    "purchasePrice": 28826526,
+    "income": {
+      "annualRent": 3205245,
+      "parkingIncome": 51640,
+      "laundryIncome": 12896,
+      "otherIncome": 8582
+    },
+    "vacancyRate": 0.07,
+    "expenses": {
+      "taxes": 576531,
+      "insurance": 288265,
+      "maintenance": 236085,
+      "utilities": 153369,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 22484690,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_oit6s5go",
+    "name": "All-Cash Office Purchase",
+    "address": {
+      "street": "4723 Elm Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "20852"
+    },
+    "type": "office",
+    "sqft": 91671,
+    "units": null,
+    "yearBuilt": 1965,
+    "purchasePrice": 11129776,
+    "income": {
+      "annualRent": 4323204,
+      "parkingIncome": 41708,
+      "laundryIncome": 0,
+      "otherIncome": 2871
+    },
+    "vacancyRate": 0.05,
+    "expenses": {
+      "taxes": 222596,
+      "insurance": 0,
+      "maintenance": 123756,
+      "utilities": 126506,
+      "managementFeePct": 0.04
+    },
+    "loan": null
+  },
+  {
+    "id": "prop_svl8qgag",
+    "name": "7874 Elm Dr",
+    "address": {
+      "street": "7848 Oak Ave",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "49060"
+    },
+    "type": "industrial",
+    "sqft": 499538,
+    "units": null,
+    "yearBuilt": 2016,
+    "purchasePrice": 45547875,
+    "income": {
+      "annualRent": 5574844,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 9068
+    },
+    "vacancyRate": 0.1,
+    "expenses": {
+      "taxes": 455479,
+      "insurance": 0,
+      "maintenance": 289732,
+      "utilities": 199815,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 35982821,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_y0c5deht",
+    "name": "6680 Park Ave",
+    "address": {
+      "street": "3619 Tech Center Dr",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "57470"
+    },
+    "type": "multifamily",
+    "sqft": 194724,
+    "units": 265,
+    "yearBuilt": 1967,
+    "purchasePrice": 33558734,
+    "income": {
+      "annualRent": 4813577,
+      "parkingIncome": 29031,
+      "laundryIncome": 5011,
+      "otherIncome": 3600
+    },
+    "vacancyRate": 0.05,
+    "expenses": {
+      "taxes": 671175,
+      "insurance": 335587,
+      "maintenance": 221985,
+      "utilities": 105151,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 24497876,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_et0h4g5c",
+    "name": "1174 Harbor Way",
+    "address": {
+      "street": "7890 Oak Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "40313"
+    },
+    "type": "industrial",
+    "sqft": 127315,
+    "units": null,
+    "yearBuilt": 1982,
+    "purchasePrice": 27079901,
+    "income": {
+      "annualRent": 1711114,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 8290
+    },
+    "vacancyRate": 0.04,
+    "expenses": {
+      "taxes": 541598,
+      "insurance": 0,
+      "maintenance": 151505,
+      "utilities": 77662,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 16518739,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_4cq1fxao",
+    "name": "6054 Park Ave",
+    "address": {
+      "street": "4963 Park Ave",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "21426"
+    },
+    "type": "retail",
+    "sqft": 68020,
+    "units": null,
+    "yearBuilt": 2006,
+    "purchasePrice": 18247045,
+    "income": {
+      "annualRent": 1714104,
+      "parkingIncome": 40649,
+      "laundryIncome": 0,
+      "otherIncome": 13209
+    },
+    "vacancyRate": 0.1,
+    "expenses": {
+      "taxes": 364941,
+      "insurance": 182470,
+      "maintenance": 79583,
+      "utilities": 46934,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 12043050,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_l8ox7jgu",
+    "name": "Distressed Retail Strip",
+    "address": {
+      "street": "796 Commerce Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "45538"
+    },
+    "type": "retail",
+    "sqft": 469860,
+    "units": null,
+    "yearBuilt": 2020,
+    "purchasePrice": 2616180,
+    "income": {
+      "annualRent": 6540451,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 8251
+    },
+    "vacancyRate": 0.1,
+    "expenses": {
+      "taxes": 1762727,
+      "insurance": 0,
+      "maintenance": 859844,
+      "utilities": 150355,
+      "managementFeePct": 0.07
+    },
+    "loan": {
+      "loanAmount": 69627708,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_wvu4w2t2",
+    "name": "5502 Harbor Way",
+    "address": {
+      "street": "6036 Oak Ave",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37731"
+    },
+    "type": "office",
+    "sqft": 59688,
+    "units": null,
+    "yearBuilt": 2003,
+    "purchasePrice": 10866797,
+    "income": {
+      "annualRent": 1160335,
+      "parkingIncome": 77509,
+      "laundryIncome": 0,
+      "otherIncome": 4783
+    },
+    "vacancyRate": 0.04,
+    "expenses": {
+      "taxes": 217336,
+      "insurance": 0,
+      "maintenance": 30441,
+      "utilities": 80579,
+      "managementFeePct": 0.05
+    },
+    "loan": {
+      "loanAmount": 8041430,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_r5b9tnhl",
+    "name": "9122 Commerce Blvd",
+    "address": {
+      "street": "6949 Oak Ave",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "81738"
+    },
+    "type": "industrial",
+    "sqft": 45001,
+    "units": null,
+    "yearBuilt": 2018,
+    "purchasePrice": 15733250,
+    "income": {
+      "annualRent": 529212,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 1889
+    },
+    "vacancyRate": 0.14,
+    "expenses": {
+      "taxes": 314665,
+      "insurance": 157332,
+      "maintenance": 82802,
+      "utilities": 28801,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 11013275,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_uy1ud47a",
+    "name": "5098 Commerce Blvd",
+    "address": {
+      "street": "3488 University Blvd",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "68282"
+    },
+    "type": "office",
+    "sqft": 53183,
+    "units": null,
+    "yearBuilt": 2003,
+    "purchasePrice": 4385470,
+    "income": {
+      "annualRent": 1033878,
+      "parkingIncome": 5696,
+      "laundryIncome": 0,
+      "otherIncome": 10905
+    },
+    "vacancyRate": 0.04,
+    "expenses": {
+      "taxes": 43855,
+      "insurance": 0,
+      "maintenance": 97857,
+      "utilities": 90411,
+      "managementFeePct": 0.05
+    },
+    "loan": {
+      "loanAmount": 3113684,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_ptdxgohq",
+    "name": "286 Main St",
+    "address": {
+      "street": "8810 Elm Dr",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "42257"
+    },
+    "type": "multifamily",
+    "sqft": 126845,
+    "units": 146,
+    "yearBuilt": 1995,
+    "purchasePrice": 39396789,
+    "income": {
+      "annualRent": 3120387,
+      "parkingIncome": 25918,
+      "laundryIncome": 7888,
+      "otherIncome": 7292
+    },
+    "vacancyRate": 0.05,
+    "expenses": {
+      "taxes": 787936,
+      "insurance": 0,
+      "maintenance": 216905,
+      "utilities": 123040,
+      "managementFeePct": 0.05
+    },
+    "loan": {
+      "loanAmount": 29153624,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_3p50i7bc",
+    "name": "5696 Park Ave",
+    "address": {
+      "street": "4025 Main St",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "42088"
+    },
+    "type": "office",
+    "sqft": 83067,
+    "units": null,
+    "yearBuilt": 1997,
+    "purchasePrice": 27166232,
+    "income": {
+      "annualRent": 3738015,
+      "parkingIncome": 24631,
+      "laundryIncome": 0,
+      "otherIncome": 4191
+    },
+    "vacancyRate": 0.04,
+    "expenses": {
+      "taxes": 271662,
+      "insurance": 0,
+      "maintenance": 143706,
+      "utilities": 144537,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 21732985,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_n0v0d932",
+    "name": "Trophy Class A Office",
+    "address": {
+      "street": "674 Industrial Pkwy",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "90697"
+    },
+    "type": "office",
+    "sqft": 22008,
+    "units": null,
+    "yearBuilt": 1991,
+    "purchasePrice": 4035384,
+    "income": {
+      "annualRent": 504423,
+      "parkingIncome": 23417,
+      "laundryIncome": 0,
+      "otherIncome": 12899
+    },
+    "vacancyRate": 0.11,
+    "expenses": {
+      "taxes": 57995,
+      "insurance": 0,
+      "maintenance": 18927,
+      "utilities": 10564,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 1739864,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_y5qe4ars",
+    "name": "4756 University Blvd",
+    "address": {
+      "street": "5913 Harbor Way",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "77748"
+    },
+    "type": "retail",
+    "sqft": 83735,
+    "units": null,
+    "yearBuilt": 2012,
+    "purchasePrice": 11576364,
+    "income": {
+      "annualRent": 3456581,
+      "parkingIncome": 62729,
+      "laundryIncome": 0,
+      "otherIncome": 12184
+    },
+    "vacancyRate": 0.09,
+    "expenses": {
+      "taxes": 231527,
+      "insurance": 0,
+      "maintenance": 114717,
+      "utilities": 59452,
+      "managementFeePct": 0.1
+    },
+    "loan": {
+      "loanAmount": 8450746,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_9k3nj5zh",
+    "name": "5402 Commerce Blvd",
+    "address": {
+      "street": "3881 Commerce Blvd",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "30820"
+    },
+    "type": "retail",
+    "sqft": 17714,
+    "units": null,
+    "yearBuilt": 2001,
+    "purchasePrice": 2854080,
+    "income": {
+      "annualRent": 599442,
+      "parkingIncome": 75625,
+      "laundryIncome": 0,
+      "otherIncome": 2080
+    },
+    "vacancyRate": 0.11,
+    "expenses": {
+      "taxes": 28541,
+      "insurance": 0,
+      "maintenance": 21611,
+      "utilities": 4251,
+      "managementFeePct": 0.04
+    },
+    "loan": {
+      "loanAmount": 1740989,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_qoenxwwx",
+    "name": "2194 Harbor Way",
+    "address": {
+      "street": "8185 University Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "32109"
+    },
+    "type": "industrial",
+    "sqft": 361395,
+    "units": null,
+    "yearBuilt": 2015,
+    "purchasePrice": 110001410,
+    "income": {
+      "annualRent": 3556127,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 13979
+    },
+    "vacancyRate": 0.13,
+    "expenses": {
+      "taxes": 1100014,
+      "insurance": 0,
+      "maintenance": 227679,
+      "utilities": 119260,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 74800959,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_n34haitz",
+    "name": "Self-Managed Multifamily",
+    "address": {
+      "street": "2195 Harbor Way",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "34107"
+    },
+    "type": "multifamily",
+    "sqft": 22264,
+    "units": null,
+    "yearBuilt": 1974,
+    "purchasePrice": 2128216,
+    "income": {
+      "annualRent": 790817,
+      "parkingIncome": 19219,
+      "laundryIncome": 0,
+      "otherIncome": 2248
+    },
+    "vacancyRate": 0.06,
+    "expenses": {
+      "taxes": 42564,
+      "insurance": 0,
+      "maintenance": 29834,
+      "utilities": 43415,
+      "managementFeePct": 0,
+      "managementFeeFixed": 36000
+    },
+    "loan": {
+      "loanAmount": 1596162,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_o5ntw9ay",
+    "name": "6825 Main St",
+    "address": {
+      "street": "7926 Park Ave",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "73135"
+    },
+    "type": "retail",
+    "sqft": 90134,
+    "units": null,
+    "yearBuilt": 2016,
+    "purchasePrice": 17992549,
+    "income": {
+      "annualRent": 3439513,
+      "parkingIncome": 64859,
+      "laundryIncome": 0,
+      "otherIncome": 13481
+    },
+    "vacancyRate": 0.04,
+    "expenses": {
+      "taxes": 359851,
+      "insurance": 0,
+      "maintenance": 141510,
+      "utilities": 67601,
+      "managementFeePct": 0.05
+    },
+    "loan": {
+      "loanAmount": 12414859,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_29o3u0sr",
+    "name": "2795 Park Ave",
+    "address": {
+      "street": "6281 Harbor Way",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "70963"
+    },
+    "type": "office",
+    "sqft": 58006,
+    "units": null,
+    "yearBuilt": 2016,
+    "purchasePrice": 11299569,
+    "income": {
+      "annualRent": 1447830,
+      "parkingIncome": 41559,
+      "laundryIncome": 0,
+      "otherIncome": 12878
+    },
+    "vacancyRate": 0.14,
+    "expenses": {
+      "taxes": 112996,
+      "insurance": 0,
+      "maintenance": 100350,
+      "utilities": 75988,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 7231724,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_na5qh1mv",
+    "name": "5164 University Blvd",
+    "address": {
+      "street": "9468 Commerce Blvd",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "14318"
+    },
+    "type": "office",
+    "sqft": 21628,
+    "units": null,
+    "yearBuilt": 2002,
+    "purchasePrice": 7494751,
+    "income": {
+      "annualRent": 942116,
+      "parkingIncome": 46959,
+      "laundryIncome": 0,
+      "otherIncome": 2030
+    },
+    "vacancyRate": 0.1,
+    "expenses": {
+      "taxes": 149895,
+      "insurance": 0,
+      "maintenance": 39796,
+      "utilities": 21412,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 4796641,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_sjcczejv",
+    "name": "3400 Tech Center Dr",
+    "address": {
+      "street": "6635 Tech Center Dr",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "52302"
+    },
+    "type": "office",
+    "sqft": 95639,
+    "units": null,
+    "yearBuilt": 1987,
+    "purchasePrice": 8725146,
+    "income": {
+      "annualRent": 2398626,
+      "parkingIncome": 47793,
+      "laundryIncome": 0,
+      "otherIncome": 438
+    },
+    "vacancyRate": 0.06,
+    "expenses": {
+      "taxes": 87251,
+      "insurance": 87251,
+      "maintenance": 155892,
+      "utilities": 184583,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 6282105,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_izh2d089",
+    "name": "1900 Market St",
+    "address": {
+      "street": "7064 Market St",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "22221"
+    },
+    "type": "multifamily",
+    "sqft": 69578,
+    "units": 79,
+    "yearBuilt": 2004,
+    "purchasePrice": 7138007,
+    "income": {
+      "annualRent": 1469487,
+      "parkingIncome": 44540,
+      "laundryIncome": 22302,
+      "otherIncome": 10893
+    },
+    "vacancyRate": 0.12,
+    "expenses": {
+      "taxes": 142760,
+      "insurance": 71380,
+      "maintenance": 53575,
+      "utilities": 59141,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 4354184,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_gehfu4jn",
+    "name": "7358 Market St",
+    "address": {
+      "street": "9900 Tech Center Dr",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "85987"
+    },
+    "type": "retail",
+    "sqft": 88080,
+    "units": null,
+    "yearBuilt": 1965,
+    "purchasePrice": 15576948,
+    "income": {
+      "annualRent": 2631830,
+      "parkingIncome": 30452,
+      "laundryIncome": 0,
+      "otherIncome": 9415
+    },
+    "vacancyRate": 0.03,
+    "expenses": {
+      "taxes": 311539,
+      "insurance": 0,
+      "maintenance": 134762,
+      "utilities": 44921,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 9813477,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_pbtev615",
+    "name": "8178 University Blvd",
+    "address": {
+      "street": "6855 Industrial Pkwy",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30301"
+    },
+    "type": "office",
+    "sqft": 69937,
+    "units": null,
+    "yearBuilt": 1996,
+    "purchasePrice": 17251360,
+    "income": {
+      "annualRent": 1896691,
+      "parkingIncome": 67883,
+      "laundryIncome": 0,
+      "otherIncome": 8034
+    },
+    "vacancyRate": 0.13,
+    "expenses": {
+      "taxes": 345027,
+      "insurance": 0,
+      "maintenance": 137776,
+      "utilities": 109801,
+      "managementFeePct": 0.07
+    },
+    "loan": {
+      "loanAmount": 11040870,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_opa8203i",
+    "name": "New Construction Luxury Apartments",
+    "address": {
+      "street": "5317 Elm Dr",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "46011"
+    },
+    "type": "multifamily",
+    "sqft": 26928,
+    "units": null,
+    "yearBuilt": 2024,
+    "purchasePrice": 6399170,
+    "income": {
+      "annualRent": 643041,
+      "parkingIncome": 58189,
+      "laundryIncome": 0,
+      "otherIncome": 8885
+    },
+    "vacancyRate": 0.35,
+    "expenses": {
+      "taxes": 63992,
+      "insurance": 63992,
+      "maintenance": 42816,
+      "utilities": 23427,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 4863369,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_exujmudx",
+    "name": "3085 Market St",
+    "address": {
+      "street": "7562 Commerce Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "48043"
+    },
+    "type": "multifamily",
+    "sqft": 68706,
+    "units": 112,
+    "yearBuilt": 2003,
+    "purchasePrice": 10068864,
+    "income": {
+      "annualRent": 1467560,
+      "parkingIncome": 22779,
+      "laundryIncome": 4057,
+      "otherIncome": 33
+    },
+    "vacancyRate": 0.04,
+    "expenses": {
+      "taxes": 100689,
+      "insurance": 0,
+      "maintenance": 127793,
+      "utilities": 39849,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 7853714,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_rr3cxcdz",
+    "name": "6720 Main St",
+    "address": {
+      "street": "7540 Park Ave",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "97694"
+    },
+    "type": "retail",
+    "sqft": 36978,
+    "units": null,
+    "yearBuilt": 1967,
+    "purchasePrice": 7978004,
+    "income": {
+      "annualRent": 1340083,
+      "parkingIncome": 58000,
+      "laundryIncome": 0,
+      "otherIncome": 13967
+    },
+    "vacancyRate": 0.1,
+    "expenses": {
+      "taxes": 159560,
+      "insurance": 0,
+      "maintenance": 35129,
+      "utilities": 19229,
+      "managementFeePct": 0.05
+    },
+    "loan": {
+      "loanAmount": 5664382,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_uhkeenfz",
+    "name": "5663 University Blvd",
+    "address": {
+      "street": "7168 Commerce Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "57535"
+    },
+    "type": "office",
+    "sqft": 64194,
+    "units": null,
+    "yearBuilt": 2004,
+    "purchasePrice": 12296361,
+    "income": {
+      "annualRent": 2642225,
+      "parkingIncome": 47822,
+      "laundryIncome": 0,
+      "otherIncome": 10422
+    },
+    "vacancyRate": 0.06,
+    "expenses": {
+      "taxes": 122964,
+      "insurance": 0,
+      "maintenance": 60984,
+      "utilities": 104636,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 9222271,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_2hmxbzti",
+    "name": "2746 Industrial Pkwy",
+    "address": {
+      "street": "872 University Blvd",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "34653"
+    },
+    "type": "multifamily",
+    "sqft": 83715,
+    "units": 112,
+    "yearBuilt": 2015,
+    "purchasePrice": 14457580,
+    "income": {
+      "annualRent": 1918748,
+      "parkingIncome": 68235,
+      "laundryIncome": 20048,
+      "otherIncome": 1494
+    },
+    "vacancyRate": 0.03,
+    "expenses": {
+      "taxes": 144576,
+      "insurance": 0,
+      "maintenance": 58600,
+      "utilities": 97947,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 11132337,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_5tbgg4qg",
+    "name": "4977 Park Ave",
+    "address": {
+      "street": "5101 Industrial Pkwy",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "82487"
+    },
+    "type": "office",
+    "sqft": 46043,
+    "units": null,
+    "yearBuilt": 1970,
+    "purchasePrice": 7034450,
+    "income": {
+      "annualRent": 1861979,
+      "parkingIncome": 70793,
+      "laundryIncome": 0,
+      "otherIncome": 4504
+    },
+    "vacancyRate": 0.11,
+    "expenses": {
+      "taxes": 140689,
+      "insurance": 0,
+      "maintenance": 36374,
+      "utilities": 59856,
+      "managementFeePct": 0.07
+    },
+    "loan": {
+      "loanAmount": 4713081,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_4zd1mr0c",
+    "name": "7178 Commerce Blvd",
+    "address": {
+      "street": "6889 University Blvd",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "25543"
+    },
+    "type": "multifamily",
+    "sqft": 44026,
+    "units": 53,
+    "yearBuilt": 1968,
+    "purchasePrice": 13516422,
+    "income": {
+      "annualRent": 1135871,
+      "parkingIncome": 34582,
+      "laundryIncome": 11876,
+      "otherIncome": 10035
+    },
+    "vacancyRate": 0.05,
+    "expenses": {
+      "taxes": 270328,
+      "insurance": 0,
+      "maintenance": 69561,
+      "utilities": 30818,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 10677974,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_gsk6p6z2",
+    "name": "5776 Elm Dr",
+    "address": {
+      "street": "500 Main St",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "15224"
+    },
+    "type": "retail",
+    "sqft": 44112,
+    "units": null,
+    "yearBuilt": 1974,
+    "purchasePrice": 12009933,
+    "income": {
+      "annualRent": 1831530,
+      "parkingIncome": 39442,
+      "laundryIncome": 0,
+      "otherIncome": 11117
+    },
+    "vacancyRate": 0.06,
+    "expenses": {
+      "taxes": 240199,
+      "insurance": 120099,
+      "maintenance": 61316,
+      "utilities": 16321,
+      "managementFeePct": 0.06
+    },
+    "loan": {
+      "loanAmount": 8887351,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_4xufbgf3",
+    "name": "6449 Tech Center Dr",
+    "address": {
+      "street": "9822 Tech Center Dr",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "46467"
+    },
+    "type": "multifamily",
+    "sqft": 84185,
+    "units": 131,
+    "yearBuilt": 1994,
+    "purchasePrice": 10666240,
+    "income": {
+      "annualRent": 1131446,
+      "parkingIncome": 79476,
+      "laundryIncome": 18954,
+      "otherIncome": 11963
+    },
+    "vacancyRate": 0.14,
+    "expenses": {
+      "taxes": 213325,
+      "insurance": 106662,
+      "maintenance": 110282,
+      "utilities": 29465,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 6933056,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_j0haecvl",
+    "name": "9477 Harbor Way",
+    "address": {
+      "street": "7436 Commerce Blvd",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "75804"
+    },
+    "type": "multifamily",
+    "sqft": 156834,
+    "units": 193,
+    "yearBuilt": 2017,
+    "purchasePrice": 19414481,
+    "income": {
+      "annualRent": 2597171,
+      "parkingIncome": 59718,
+      "laundryIncome": 8873,
+      "otherIncome": 4081
+    },
+    "vacancyRate": 0.08,
+    "expenses": {
+      "taxes": 194145,
+      "insurance": 0,
+      "maintenance": 117626,
+      "utilities": 101942,
+      "managementFeePct": 0.07
+    },
+    "loan": {
+      "loanAmount": 11842833,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_prjn4qnx",
+    "name": "Small Retail Storefront",
+    "address": {
+      "street": "6493 Elm Dr",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "41643"
+    },
+    "type": "retail",
+    "sqft": 1200,
+    "units": null,
+    "yearBuilt": 1996,
+    "purchasePrice": 180000,
+    "income": {
+      "annualRent": 18000,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 0
+    },
+    "vacancyRate": 0.14,
+    "expenses": {
+      "taxes": 653587,
+      "insurance": 0,
+      "maintenance": 250031,
+      "utilities": 112083,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 23529128,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_44lui3ls",
+    "name": "2542 Park Ave",
+    "address": {
+      "street": "5109 Main St",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "42696"
+    },
+    "type": "industrial",
+    "sqft": 243214,
+    "units": null,
+    "yearBuilt": 1990,
+    "purchasePrice": 35059298,
+    "income": {
+      "annualRent": 1342541,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 11360
+    },
+    "vacancyRate": 0.1,
+    "expenses": {
+      "taxes": 701186,
+      "insurance": 350593,
+      "maintenance": 389142,
+      "utilities": 53507,
+      "managementFeePct": 0.1
+    },
+    "loan": {
+      "loanAmount": 22437951,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_nydar0dp",
+    "name": "5080 Main St",
+    "address": {
+      "street": "515 Elm Dr",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "66203"
+    },
+    "type": "industrial",
+    "sqft": 279073,
+    "units": null,
+    "yearBuilt": 1965,
+    "purchasePrice": 83283755,
+    "income": {
+      "annualRent": 3985162,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 6664
+    },
+    "vacancyRate": 0.1,
+    "expenses": {
+      "taxes": 1665675,
+      "insurance": 0,
+      "maintenance": 496750,
+      "utilities": 170235,
+      "managementFeePct": 0.1
+    },
+    "loan": {
+      "loanAmount": 60797141,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_fqeco6o0",
+    "name": "3229 Market St",
+    "address": {
+      "street": "6452 Market St",
+      "city": "Orlando",
+      "state": "FL",
+      "zip": "57963"
+    },
+    "type": "retail",
+    "sqft": 44403,
+    "units": null,
+    "yearBuilt": 1996,
+    "purchasePrice": 10705563,
+    "income": {
+      "annualRent": 1561209,
+      "parkingIncome": 39403,
+      "laundryIncome": 0,
+      "otherIncome": 7515
+    },
+    "vacancyRate": 0.04,
+    "expenses": {
+      "taxes": 107056,
+      "insurance": 0,
+      "maintenance": 40851,
+      "utilities": 14209,
+      "managementFeePct": 0.08
+    },
+    "loan": {
+      "loanAmount": 7493894,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_lk411ptq",
+    "name": "3078 University Blvd",
+    "address": {
+      "street": "2166 Main St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "39249"
+    },
+    "type": "retail",
+    "sqft": 26771,
+    "units": null,
+    "yearBuilt": 1975,
+    "purchasePrice": 7018553,
+    "income": {
+      "annualRent": 661779,
+      "parkingIncome": 8830,
+      "laundryIncome": 0,
+      "otherIncome": 9806
+    },
+    "vacancyRate": 0.15,
+    "expenses": {
+      "taxes": 70186,
+      "insurance": 0,
+      "maintenance": 16330,
+      "utilities": 8299,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 5193729,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 30
+    }
+  },
+  {
+    "id": "prop_hiiwgr5b",
+    "name": "Amazon Distribution Center",
+    "address": {
+      "street": "8216 Industrial Pkwy",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip": "73591"
+    },
+    "type": "industrial",
+    "sqft": 750000,
+    "units": null,
+    "yearBuilt": 1966,
+    "purchasePrice": 45000000,
+    "income": {
+      "annualRent": 3750000,
+      "parkingIncome": 0,
+      "laundryIncome": 0,
+      "otherIncome": 7680
+    },
+    "vacancyRate": 0.14,
+    "expenses": {
+      "taxes": 475962,
+      "insurance": 0,
+      "maintenance": 832901,
+      "utilities": 313457,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 33750000,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_qu6iq3vu",
+    "name": "8857 University Blvd",
+    "address": {
+      "street": "5093 Park Ave",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "73324"
+    },
+    "type": "office",
+    "sqft": 40341,
+    "units": null,
+    "yearBuilt": 1990,
+    "purchasePrice": 13575553,
+    "income": {
+      "annualRent": 760024,
+      "parkingIncome": 16782,
+      "laundryIncome": 0,
+      "otherIncome": 1200
+    },
+    "vacancyRate": 0.09,
+    "expenses": {
+      "taxes": 271511,
+      "insurance": 0,
+      "maintenance": 71807,
+      "utilities": 33483,
+      "managementFeePct": 0.09
+    },
+    "loan": {
+      "loanAmount": 9095621,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 25
+    }
+  },
+  {
+    "id": "prop_nazotxgj",
+    "name": "5295 Market St",
+    "address": {
+      "street": "9152 Oak Ave",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "91024"
+    },
+    "type": "office",
+    "sqft": 74280,
+    "units": null,
+    "yearBuilt": 1988,
+    "purchasePrice": 21826435,
+    "income": {
+      "annualRent": 2638426,
+      "parkingIncome": 52687,
+      "laundryIncome": 0,
+      "otherIncome": 11900
+    },
+    "vacancyRate": 0.06,
+    "expenses": {
+      "taxes": 218264,
+      "insurance": 0,
+      "maintenance": 66109,
+      "utilities": 74280,
+      "managementFeePct": 0.1
+    },
+    "loan": {
+      "loanAmount": 16151562,
+      "annualInterestRate": 0.07,
+      "loanTermYears": 15
+    }
+  },
+  {
+    "id": "prop_h9m1wcda",
+    "name": "3581 University Blvd",
+    "address": {
+      "street": "3424 University Blvd",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "56553"
+    },
+    "type": "retail",
+    "sqft": 65207,
+    "units": null,
+    "yearBuilt": 1991,
+    "purchasePrice": 17631321,
+    "income": {
+      "annualRent": 2370927,
+      "parkingIncome": 28043,
+      "laundryIncome": 0,
+      "otherIncome": 12495
+    },
+    "vacancyRate": 0.05,
+    "expenses": {
+      "taxes": 352626,
+      "insurance": 0,
+      "maintenance": 129762,
+      "utilities": 14346,
+      "managementFeePct": 0.07
+    },
+    "loan": {
+      "loanAmount": 13399804,
+      "annualInterestRate": 0.06,
+      "loanTermYears": 20
+    }
+  },
+  {
+    "id": "prop_162tqk89",
+    "name": "7737 Industrial Pkwy",
+    "address": {
+      "street": "8998 University Blvd",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "37927"
+    },
+    "type": "office",
+    "sqft": 78815,
+    "units": null,
+    "yearBuilt": 1988,
+    "purchasePrice": 23889615,
+    "income": {
+      "annualRent": 2563064,
+      "parkingIncome": 5062,
+      "laundryIncome": 0,
+      "otherIncome": 10244
+    },
+    "vacancyRate": 0.12,
+    "expenses": {
+      "taxes": 477792,
+      "insurance": 0,
+      "maintenance": 114282,
+      "utilities": 148960,
+      "managementFeePct": 0.07
+    },
+    "loan": {
+      "loanAmount": 17200523,
+      "annualInterestRate": 0.05,
+      "loanTermYears": 15
+    }
+  }
+]
